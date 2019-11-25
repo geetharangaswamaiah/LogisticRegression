@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+LogisticRegression/_init_.py
+LogisticRegression/utilities.py
+LogisticRegression.egg-info/PKG-INFO
+LogisticRegression.egg-info/SOURCES.txt
+LogisticRegression.egg-info/dependency_links.txt
+LogisticRegression.egg-info/requires.txt
+LogisticRegression.egg-info/top_level.txt
